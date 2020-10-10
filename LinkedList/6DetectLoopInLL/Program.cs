@@ -22,6 +22,7 @@ namespace _6DetectLoopInLL
         public Node next;
         public Node(int val)
         {
+
             this.value = val;
             this.next = null;
         }
