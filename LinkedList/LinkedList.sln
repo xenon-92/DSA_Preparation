@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6DetectLoopInLL", "6DetectL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7NumberOfNodesInCycleofLL", "7NumberOfNodesInCycleofLL\7NumberOfNodesInCycleofLL.csproj", "{D6DC21A6-296A-404B-83D7-18528623DA41}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8DetectAndRemoveCycleFromLL", "8DetectAndRemoveCycleFromLL\8DetectAndRemoveCycleFromLL.csproj", "{1BDBFCED-E996-4CAC-9C86-4D53FAD12F38}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{D6DC21A6-296A-404B-83D7-18528623DA41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6DC21A6-296A-404B-83D7-18528623DA41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6DC21A6-296A-404B-83D7-18528623DA41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BDBFCED-E996-4CAC-9C86-4D53FAD12F38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BDBFCED-E996-4CAC-9C86-4D53FAD12F38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BDBFCED-E996-4CAC-9C86-4D53FAD12F38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BDBFCED-E996-4CAC-9C86-4D53FAD12F38}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
