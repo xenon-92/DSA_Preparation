@@ -16,7 +16,8 @@ namespace NumberOfTimesAGivenIntOccurs
             n2.next = n3;
             n3.next = n4;
             Solution s = new Solution();
-            int count = s.NoOccurence(head,22);
+            int count = s.NoOccurence(head, 22);
+            int countRecursive = s.NoOccurrenceRecursive(head, 1);
             Console.WriteLine(count);
         }
     }
@@ -32,6 +33,7 @@ namespace NumberOfTimesAGivenIntOccurs
     }
     class Solution
     {
+        int Count = 0;
         public int NoOccurence(Node head, int val)
         {
             int count = 0;
@@ -45,6 +47,18 @@ namespace NumberOfTimesAGivenIntOccurs
                 current = current.next;
             }
             return count;
+        }
+        public int NoOccurrenceRecursive(Node current, int val)
+        {
+            if (current == null)
+            {
+                return Count;
+            }
+            if (current.value == val)
+            {
+                Count += 1;
+            }
+            return NoOccurrenceRecursive(current.next, val);
         }
     }
 }

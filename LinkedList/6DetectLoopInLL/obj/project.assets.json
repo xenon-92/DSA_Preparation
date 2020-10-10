@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sumit\\source\\repos\\DSA\\DSA_Preparation\\LinkedList\\NumberOfTimesAGivenIntOccurs\\5NumberOfTimesAGivenIntOccurs.csproj",
-      "projectName": "5NumberOfTimesAGivenIntOccurs",
-      "projectPath": "C:\\Users\\sumit\\source\\repos\\DSA\\DSA_Preparation\\LinkedList\\NumberOfTimesAGivenIntOccurs\\5NumberOfTimesAGivenIntOccurs.csproj",
+      "projectUniqueName": "C:\\Users\\sumit\\source\\repos\\DSA\\DSA_Preparation\\LinkedList\\6DetectLoopInLL\\6DetectLoopInLL.csproj",
+      "projectName": "6DetectLoopInLL",
+      "projectPath": "C:\\Users\\sumit\\source\\repos\\DSA\\DSA_Preparation\\LinkedList\\6DetectLoopInLL\\6DetectLoopInLL.csproj",
       "packagesPath": "C:\\Users\\sumit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sumit\\source\\repos\\DSA\\DSA_Preparation\\LinkedList\\NumberOfTimesAGivenIntOccurs\\obj\\",
+      "outputPath": "C:\\Users\\sumit\\source\\repos\\DSA\\DSA_Preparation\\LinkedList\\6DetectLoopInLL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

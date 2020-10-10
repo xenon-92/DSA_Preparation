@@ -11,7 +11,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3FindValueForANodeFromBack"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4FindMiddleOfALinkedList", "4FindMiddleOfALinkedList\4FindMiddleOfALinkedList.csproj", "{44FAA7F8-3E2D-4716-A5D8-0B639166A12B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfTimesAGivenIntOccurs", "NumberOfTimesAGivenIntOccurs\NumberOfTimesAGivenIntOccurs.csproj", "{2643E050-BD5B-447A-A436-F75912395582}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5NumberOfTimesAGivenIntOccurs", "NumberOfTimesAGivenIntOccurs\5NumberOfTimesAGivenIntOccurs.csproj", "{2643E050-BD5B-447A-A436-F75912395582}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6DetectLoopInLL", "6DetectLoopInLL\6DetectLoopInLL.csproj", "{63986E62-96D1-4DB3-8AF2-AF26B6BEE88F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{2643E050-BD5B-447A-A436-F75912395582}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2643E050-BD5B-447A-A436-F75912395582}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2643E050-BD5B-447A-A436-F75912395582}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63986E62-96D1-4DB3-8AF2-AF26B6BEE88F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63986E62-96D1-4DB3-8AF2-AF26B6BEE88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63986E62-96D1-4DB3-8AF2-AF26B6BEE88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63986E62-96D1-4DB3-8AF2-AF26B6BEE88F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
