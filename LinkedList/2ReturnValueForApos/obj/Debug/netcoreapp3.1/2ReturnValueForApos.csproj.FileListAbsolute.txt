@@ -1,0 +1,13 @@
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\2ReturnValueForApos\bin\Debug\netcoreapp3.1\2ReturnValueForApos.exe
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\2ReturnValueForApos\bin\Debug\netcoreapp3.1\2ReturnValueForApos.deps.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\2ReturnValueForApos\bin\Debug\netcoreapp3.1\2ReturnValueForApos.runtimeconfig.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\2ReturnValueForApos\bin\Debug\netcoreapp3.1\2ReturnValueForApos.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\2ReturnValueForApos\bin\Debug\netcoreapp3.1\2ReturnValueForApos.dll
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\2ReturnValueForApos\bin\Debug\netcoreapp3.1\2ReturnValueForApos.pdb
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\2ReturnValueForApos\obj\Debug\netcoreapp3.1\2ReturnValueForApos.csprojAssemblyReference.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\2ReturnValueForApos\obj\Debug\netcoreapp3.1\2ReturnValueForApos.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\2ReturnValueForApos\obj\Debug\netcoreapp3.1\2ReturnValueForApos.AssemblyInfo.cs
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\2ReturnValueForApos\obj\Debug\netcoreapp3.1\2ReturnValueForApos.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\2ReturnValueForApos\obj\Debug\netcoreapp3.1\2ReturnValueForApos.dll
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\2ReturnValueForApos\obj\Debug\netcoreapp3.1\2ReturnValueForApos.pdb
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\2ReturnValueForApos\obj\Debug\netcoreapp3.1\2ReturnValueForApos.genruntimeconfig.cache
