@@ -30,6 +30,9 @@ namespace _2ReturnValueForApos
             this.next = null;
         }
     }
+    /// <summary>
+    /// The position is taken as a zero based index
+    /// </summary>
     class Solution
     {
         public int GetValueAtPosition(Node head, int pos)

@@ -1,0 +1,13 @@
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\3FindValueForANodeFromBack\bin\Debug\netcoreapp3.1\3FindValueForANodeFromBack.exe
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\3FindValueForANodeFromBack\bin\Debug\netcoreapp3.1\3FindValueForANodeFromBack.deps.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\3FindValueForANodeFromBack\bin\Debug\netcoreapp3.1\3FindValueForANodeFromBack.runtimeconfig.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\3FindValueForANodeFromBack\bin\Debug\netcoreapp3.1\3FindValueForANodeFromBack.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\3FindValueForANodeFromBack\bin\Debug\netcoreapp3.1\3FindValueForANodeFromBack.dll
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\3FindValueForANodeFromBack\bin\Debug\netcoreapp3.1\3FindValueForANodeFromBack.pdb
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\3FindValueForANodeFromBack\obj\Debug\netcoreapp3.1\3FindValueForANodeFromBack.csprojAssemblyReference.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\3FindValueForANodeFromBack\obj\Debug\netcoreapp3.1\3FindValueForANodeFromBack.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\3FindValueForANodeFromBack\obj\Debug\netcoreapp3.1\3FindValueForANodeFromBack.AssemblyInfo.cs
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\3FindValueForANodeFromBack\obj\Debug\netcoreapp3.1\3FindValueForANodeFromBack.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\3FindValueForANodeFromBack\obj\Debug\netcoreapp3.1\3FindValueForANodeFromBack.dll
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\3FindValueForANodeFromBack\obj\Debug\netcoreapp3.1\3FindValueForANodeFromBack.pdb
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\3FindValueForANodeFromBack\obj\Debug\netcoreapp3.1\3FindValueForANodeFromBack.genruntimeconfig.cache
