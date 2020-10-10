@@ -11,6 +11,7 @@ namespace _6DetectLoopInLL
             Node n2 = new Node(101);
             head.next = n1;
             n1.next = n2;
+            n2.next = n1;
             Solution s = new Solution();
             bool flag = s.Cycle(head);
             Console.WriteLine(flag);
@@ -22,7 +23,6 @@ namespace _6DetectLoopInLL
         public Node next;
         public Node(int val)
         {
-
             this.value = val;
             this.next = null;
         }
