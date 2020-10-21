@@ -1,0 +1,12 @@
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\10_RecursivelyReverseALL\bin\Debug\netcoreapp3.1\10_RecursivelyReverseALL.exe
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\10_RecursivelyReverseALL\bin\Debug\netcoreapp3.1\10_RecursivelyReverseALL.deps.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\10_RecursivelyReverseALL\bin\Debug\netcoreapp3.1\10_RecursivelyReverseALL.runtimeconfig.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\10_RecursivelyReverseALL\bin\Debug\netcoreapp3.1\10_RecursivelyReverseALL.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\10_RecursivelyReverseALL\bin\Debug\netcoreapp3.1\10_RecursivelyReverseALL.dll
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\10_RecursivelyReverseALL\bin\Debug\netcoreapp3.1\10_RecursivelyReverseALL.pdb
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\10_RecursivelyReverseALL\obj\Debug\netcoreapp3.1\10_RecursivelyReverseALL.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\10_RecursivelyReverseALL\obj\Debug\netcoreapp3.1\10_RecursivelyReverseALL.AssemblyInfo.cs
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\10_RecursivelyReverseALL\obj\Debug\netcoreapp3.1\10_RecursivelyReverseALL.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\10_RecursivelyReverseALL\obj\Debug\netcoreapp3.1\10_RecursivelyReverseALL.dll
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\10_RecursivelyReverseALL\obj\Debug\netcoreapp3.1\10_RecursivelyReverseALL.pdb
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\10_RecursivelyReverseALL\obj\Debug\netcoreapp3.1\10_RecursivelyReverseALL.genruntimeconfig.cache

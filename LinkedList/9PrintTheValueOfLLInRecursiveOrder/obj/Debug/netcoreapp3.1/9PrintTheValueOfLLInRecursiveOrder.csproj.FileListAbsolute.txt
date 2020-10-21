@@ -1,0 +1,13 @@
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\9PrintTheValueOfLLInRecursiveOrder\bin\Debug\netcoreapp3.1\9PrintTheValueOfLLInRecursiveOrder.exe
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\9PrintTheValueOfLLInRecursiveOrder\bin\Debug\netcoreapp3.1\9PrintTheValueOfLLInRecursiveOrder.deps.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\9PrintTheValueOfLLInRecursiveOrder\bin\Debug\netcoreapp3.1\9PrintTheValueOfLLInRecursiveOrder.runtimeconfig.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\9PrintTheValueOfLLInRecursiveOrder\bin\Debug\netcoreapp3.1\9PrintTheValueOfLLInRecursiveOrder.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\9PrintTheValueOfLLInRecursiveOrder\bin\Debug\netcoreapp3.1\9PrintTheValueOfLLInRecursiveOrder.dll
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\9PrintTheValueOfLLInRecursiveOrder\bin\Debug\netcoreapp3.1\9PrintTheValueOfLLInRecursiveOrder.pdb
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\9PrintTheValueOfLLInRecursiveOrder\obj\Debug\netcoreapp3.1\9PrintTheValueOfLLInRecursiveOrder.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\9PrintTheValueOfLLInRecursiveOrder\obj\Debug\netcoreapp3.1\9PrintTheValueOfLLInRecursiveOrder.AssemblyInfo.cs
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\9PrintTheValueOfLLInRecursiveOrder\obj\Debug\netcoreapp3.1\9PrintTheValueOfLLInRecursiveOrder.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\9PrintTheValueOfLLInRecursiveOrder\obj\Debug\netcoreapp3.1\9PrintTheValueOfLLInRecursiveOrder.dll
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\9PrintTheValueOfLLInRecursiveOrder\obj\Debug\netcoreapp3.1\9PrintTheValueOfLLInRecursiveOrder.pdb
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\9PrintTheValueOfLLInRecursiveOrder\obj\Debug\netcoreapp3.1\9PrintTheValueOfLLInRecursiveOrder.genruntimeconfig.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\9PrintTheValueOfLLInRecursiveOrder\obj\Debug\netcoreapp3.1\9PrintTheValueOfLLInRecursiveOrder.csprojAssemblyReference.cache
