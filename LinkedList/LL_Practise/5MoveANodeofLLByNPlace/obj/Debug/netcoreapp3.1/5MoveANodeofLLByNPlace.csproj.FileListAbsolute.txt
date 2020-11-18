@@ -1,0 +1,13 @@
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\5MoveANodeofLLByNPlace\bin\Debug\netcoreapp3.1\5MoveANodeofLLByNPlace.exe
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\5MoveANodeofLLByNPlace\bin\Debug\netcoreapp3.1\5MoveANodeofLLByNPlace.deps.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\5MoveANodeofLLByNPlace\bin\Debug\netcoreapp3.1\5MoveANodeofLLByNPlace.runtimeconfig.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\5MoveANodeofLLByNPlace\bin\Debug\netcoreapp3.1\5MoveANodeofLLByNPlace.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\5MoveANodeofLLByNPlace\bin\Debug\netcoreapp3.1\5MoveANodeofLLByNPlace.dll
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\5MoveANodeofLLByNPlace\bin\Debug\netcoreapp3.1\5MoveANodeofLLByNPlace.pdb
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\5MoveANodeofLLByNPlace\obj\Debug\netcoreapp3.1\5MoveANodeofLLByNPlace.csprojAssemblyReference.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\5MoveANodeofLLByNPlace\obj\Debug\netcoreapp3.1\5MoveANodeofLLByNPlace.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\5MoveANodeofLLByNPlace\obj\Debug\netcoreapp3.1\5MoveANodeofLLByNPlace.AssemblyInfo.cs
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\5MoveANodeofLLByNPlace\obj\Debug\netcoreapp3.1\5MoveANodeofLLByNPlace.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\5MoveANodeofLLByNPlace\obj\Debug\netcoreapp3.1\5MoveANodeofLLByNPlace.dll
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\5MoveANodeofLLByNPlace\obj\Debug\netcoreapp3.1\5MoveANodeofLLByNPlace.pdb
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\5MoveANodeofLLByNPlace\obj\Debug\netcoreapp3.1\5MoveANodeofLLByNPlace.genruntimeconfig.cache

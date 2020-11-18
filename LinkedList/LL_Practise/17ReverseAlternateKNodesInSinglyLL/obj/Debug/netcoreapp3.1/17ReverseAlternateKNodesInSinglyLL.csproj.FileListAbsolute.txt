@@ -1,0 +1,13 @@
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\17ReverseAlternateKNodesInSinglyLL\bin\Debug\netcoreapp3.1\17ReverseAlternateKNodesInSinglyLL.exe
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\17ReverseAlternateKNodesInSinglyLL\bin\Debug\netcoreapp3.1\17ReverseAlternateKNodesInSinglyLL.deps.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\17ReverseAlternateKNodesInSinglyLL\bin\Debug\netcoreapp3.1\17ReverseAlternateKNodesInSinglyLL.runtimeconfig.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\17ReverseAlternateKNodesInSinglyLL\bin\Debug\netcoreapp3.1\17ReverseAlternateKNodesInSinglyLL.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\17ReverseAlternateKNodesInSinglyLL\bin\Debug\netcoreapp3.1\17ReverseAlternateKNodesInSinglyLL.dll
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\17ReverseAlternateKNodesInSinglyLL\bin\Debug\netcoreapp3.1\17ReverseAlternateKNodesInSinglyLL.pdb
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\17ReverseAlternateKNodesInSinglyLL\obj\Debug\netcoreapp3.1\17ReverseAlternateKNodesInSinglyLL.csprojAssemblyReference.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\17ReverseAlternateKNodesInSinglyLL\obj\Debug\netcoreapp3.1\17ReverseAlternateKNodesInSinglyLL.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\17ReverseAlternateKNodesInSinglyLL\obj\Debug\netcoreapp3.1\17ReverseAlternateKNodesInSinglyLL.AssemblyInfo.cs
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\17ReverseAlternateKNodesInSinglyLL\obj\Debug\netcoreapp3.1\17ReverseAlternateKNodesInSinglyLL.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\17ReverseAlternateKNodesInSinglyLL\obj\Debug\netcoreapp3.1\17ReverseAlternateKNodesInSinglyLL.dll
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\17ReverseAlternateKNodesInSinglyLL\obj\Debug\netcoreapp3.1\17ReverseAlternateKNodesInSinglyLL.pdb
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\17ReverseAlternateKNodesInSinglyLL\obj\Debug\netcoreapp3.1\17ReverseAlternateKNodesInSinglyLL.genruntimeconfig.cache

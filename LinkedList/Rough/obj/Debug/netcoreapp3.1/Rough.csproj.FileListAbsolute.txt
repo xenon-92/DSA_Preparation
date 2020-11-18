@@ -1,0 +1,13 @@
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\Rough\bin\Debug\netcoreapp3.1\Rough.exe
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\Rough\bin\Debug\netcoreapp3.1\Rough.deps.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\Rough\bin\Debug\netcoreapp3.1\Rough.runtimeconfig.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\Rough\bin\Debug\netcoreapp3.1\Rough.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\Rough\bin\Debug\netcoreapp3.1\Rough.dll
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\Rough\bin\Debug\netcoreapp3.1\Rough.pdb
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\Rough\obj\Debug\netcoreapp3.1\Rough.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\Rough\obj\Debug\netcoreapp3.1\Rough.AssemblyInfo.cs
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\Rough\obj\Debug\netcoreapp3.1\Rough.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\Rough\obj\Debug\netcoreapp3.1\Rough.dll
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\Rough\obj\Debug\netcoreapp3.1\Rough.pdb
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\Rough\obj\Debug\netcoreapp3.1\Rough.genruntimeconfig.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\Rough\obj\Debug\netcoreapp3.1\Rough.csprojAssemblyReference.cache

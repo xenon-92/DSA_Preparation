@@ -1,0 +1,13 @@
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\3NthNodeFromEnd\bin\Debug\netcoreapp3.1\3NthNodeFromEnd.exe
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\3NthNodeFromEnd\bin\Debug\netcoreapp3.1\3NthNodeFromEnd.deps.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\3NthNodeFromEnd\bin\Debug\netcoreapp3.1\3NthNodeFromEnd.runtimeconfig.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\3NthNodeFromEnd\bin\Debug\netcoreapp3.1\3NthNodeFromEnd.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\3NthNodeFromEnd\bin\Debug\netcoreapp3.1\3NthNodeFromEnd.dll
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\3NthNodeFromEnd\bin\Debug\netcoreapp3.1\3NthNodeFromEnd.pdb
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\3NthNodeFromEnd\obj\Debug\netcoreapp3.1\3NthNodeFromEnd.csprojAssemblyReference.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\3NthNodeFromEnd\obj\Debug\netcoreapp3.1\3NthNodeFromEnd.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\3NthNodeFromEnd\obj\Debug\netcoreapp3.1\3NthNodeFromEnd.AssemblyInfo.cs
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\3NthNodeFromEnd\obj\Debug\netcoreapp3.1\3NthNodeFromEnd.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\3NthNodeFromEnd\obj\Debug\netcoreapp3.1\3NthNodeFromEnd.dll
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\3NthNodeFromEnd\obj\Debug\netcoreapp3.1\3NthNodeFromEnd.pdb
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\3NthNodeFromEnd\obj\Debug\netcoreapp3.1\3NthNodeFromEnd.genruntimeconfig.cache

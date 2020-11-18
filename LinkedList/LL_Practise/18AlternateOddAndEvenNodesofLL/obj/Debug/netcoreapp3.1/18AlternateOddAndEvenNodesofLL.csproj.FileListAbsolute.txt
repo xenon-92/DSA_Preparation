@@ -1,0 +1,13 @@
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\18AlternateOddAndEvenNodesofLL\bin\Debug\netcoreapp3.1\18AlternateOddAndEvenNodesofLL.exe
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\18AlternateOddAndEvenNodesofLL\bin\Debug\netcoreapp3.1\18AlternateOddAndEvenNodesofLL.deps.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\18AlternateOddAndEvenNodesofLL\bin\Debug\netcoreapp3.1\18AlternateOddAndEvenNodesofLL.runtimeconfig.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\18AlternateOddAndEvenNodesofLL\bin\Debug\netcoreapp3.1\18AlternateOddAndEvenNodesofLL.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\18AlternateOddAndEvenNodesofLL\bin\Debug\netcoreapp3.1\18AlternateOddAndEvenNodesofLL.dll
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\18AlternateOddAndEvenNodesofLL\bin\Debug\netcoreapp3.1\18AlternateOddAndEvenNodesofLL.pdb
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\18AlternateOddAndEvenNodesofLL\obj\Debug\netcoreapp3.1\18AlternateOddAndEvenNodesofLL.csprojAssemblyReference.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\18AlternateOddAndEvenNodesofLL\obj\Debug\netcoreapp3.1\18AlternateOddAndEvenNodesofLL.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\18AlternateOddAndEvenNodesofLL\obj\Debug\netcoreapp3.1\18AlternateOddAndEvenNodesofLL.AssemblyInfo.cs
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\18AlternateOddAndEvenNodesofLL\obj\Debug\netcoreapp3.1\18AlternateOddAndEvenNodesofLL.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\18AlternateOddAndEvenNodesofLL\obj\Debug\netcoreapp3.1\18AlternateOddAndEvenNodesofLL.dll
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\18AlternateOddAndEvenNodesofLL\obj\Debug\netcoreapp3.1\18AlternateOddAndEvenNodesofLL.pdb
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\18AlternateOddAndEvenNodesofLL\obj\Debug\netcoreapp3.1\18AlternateOddAndEvenNodesofLL.genruntimeconfig.cache

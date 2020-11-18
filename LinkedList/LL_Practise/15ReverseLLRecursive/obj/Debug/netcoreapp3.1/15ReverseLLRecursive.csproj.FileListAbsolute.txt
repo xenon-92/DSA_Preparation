@@ -1,0 +1,12 @@
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\15ReverseLLRecursive\bin\Debug\netcoreapp3.1\15ReverseLLRecursive.exe
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\15ReverseLLRecursive\bin\Debug\netcoreapp3.1\15ReverseLLRecursive.deps.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\15ReverseLLRecursive\bin\Debug\netcoreapp3.1\15ReverseLLRecursive.runtimeconfig.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\15ReverseLLRecursive\bin\Debug\netcoreapp3.1\15ReverseLLRecursive.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\15ReverseLLRecursive\bin\Debug\netcoreapp3.1\15ReverseLLRecursive.dll
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\15ReverseLLRecursive\bin\Debug\netcoreapp3.1\15ReverseLLRecursive.pdb
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\15ReverseLLRecursive\obj\Debug\netcoreapp3.1\15ReverseLLRecursive.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\15ReverseLLRecursive\obj\Debug\netcoreapp3.1\15ReverseLLRecursive.AssemblyInfo.cs
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\15ReverseLLRecursive\obj\Debug\netcoreapp3.1\15ReverseLLRecursive.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\15ReverseLLRecursive\obj\Debug\netcoreapp3.1\15ReverseLLRecursive.dll
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\15ReverseLLRecursive\obj\Debug\netcoreapp3.1\15ReverseLLRecursive.pdb
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\15ReverseLLRecursive\obj\Debug\netcoreapp3.1\15ReverseLLRecursive.genruntimeconfig.cache

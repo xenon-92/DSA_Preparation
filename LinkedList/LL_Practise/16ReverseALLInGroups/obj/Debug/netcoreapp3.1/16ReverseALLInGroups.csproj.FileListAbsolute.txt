@@ -1,0 +1,12 @@
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\16ReverseALLInGroups\bin\Debug\netcoreapp3.1\16ReverseALLInGroups.exe
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\16ReverseALLInGroups\bin\Debug\netcoreapp3.1\16ReverseALLInGroups.deps.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\16ReverseALLInGroups\bin\Debug\netcoreapp3.1\16ReverseALLInGroups.runtimeconfig.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\16ReverseALLInGroups\bin\Debug\netcoreapp3.1\16ReverseALLInGroups.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\16ReverseALLInGroups\bin\Debug\netcoreapp3.1\16ReverseALLInGroups.dll
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\16ReverseALLInGroups\bin\Debug\netcoreapp3.1\16ReverseALLInGroups.pdb
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\16ReverseALLInGroups\obj\Debug\netcoreapp3.1\16ReverseALLInGroups.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\16ReverseALLInGroups\obj\Debug\netcoreapp3.1\16ReverseALLInGroups.AssemblyInfo.cs
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\16ReverseALLInGroups\obj\Debug\netcoreapp3.1\16ReverseALLInGroups.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\16ReverseALLInGroups\obj\Debug\netcoreapp3.1\16ReverseALLInGroups.dll
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\16ReverseALLInGroups\obj\Debug\netcoreapp3.1\16ReverseALLInGroups.pdb
+C:\Users\sumit\source\repos\DSA\DSA_Preparation\LinkedList\LL_Practise\16ReverseALLInGroups\obj\Debug\netcoreapp3.1\16ReverseALLInGroups.genruntimeconfig.cache
